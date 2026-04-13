@@ -1,3 +1,3 @@
 # Smart-attendance-system
-This is smart attendance project
-Auther Ebadullah
+This is smart attendance project.
+Auther: Ebadullah
